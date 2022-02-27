@@ -41,7 +41,10 @@ body{
     }
   
     /* body */
-
+.home-img img{
+    width: 1350px;
+    height: 500px;
+}
 
 
      /* footer-header */

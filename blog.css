@@ -41,7 +41,13 @@ body{
     }
   
     /* body */
-
+    .blg{
+        padding-left: 180px;
+    }
+.blg img{
+    
+    width:1000px ;
+}
 
 
 
